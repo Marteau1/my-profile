@@ -1,0 +1,71 @@
+body {
+	background-color: #FFFCF9;
+	color: #7A6C5D;
+	font-family: 'Playpen Sans', cursive;
+	font-size: 16px;
+	font-weight: lighter;
+	text-align: center;
+}
+h1 { 
+	color: #0D3B66; 
+	font-size: 30px ;
+	font-family: 'Tilt Neon', sans-serif;
+}
+h2 {
+	color: #5299D3;
+	font-size: 24px;
+	font-family: 'Playpen Sans', cursive;
+}
+
+a {
+	text-decoration: none;
+	color: #7A6C5D;
+}
+a:hover {
+	color: #BDEDE0;
+}
+div {
+	background-color: white;
+	padding: 20px ;
+	border-radius: 10px;
+	box-shadow: 0 10px 30px rgba(0,0,0,.1);
+	margin : 50px auto;
+	width: 700px;
+
+}
+.button-link {
+	color: #7A6C5D;
+    width: 70px;
+    border-color: rgba(0, 0, 0, 0.4);
+    border-radius: 5px;
+    box-shadow: 0 10px 30px rgba(0,0,0,.1);
+}
+button-link:hover {
+	background-color: black;
+}
+.img-circle {
+	border-radius: 25%;
+}
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+.logo-linkedin {
+	color: #0077b5;
+}
+.logo-facebook {
+	color:rgb(59, 89, 152);
+}
+.logo-instagram {
+	color: #222222;
+}
+
+.logo-instagram, .logo-facebook {
+	padding-right: 15px;
+}
+.list-inline li {
+	display: inline;
+}
+#introduction p {
+	margin-bottom: 50px;
+}
